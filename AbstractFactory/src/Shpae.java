@@ -1,0 +1,4 @@
+
+interface Shpae {
+    void Draw();
+}
